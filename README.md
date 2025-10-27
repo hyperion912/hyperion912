@@ -172,6 +172,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
+<div align="center">
+📈 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=hyperion912)
+
 
 **⭐️ If you find my work interesting, consider starring my repositories!**
 
