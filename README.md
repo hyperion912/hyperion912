@@ -95,23 +95,6 @@ SQL           ███████████████░░░░░    75
 
 ---
 
-## 🏆 Ongoing Projects
-
-### 🤖 [AutomataMesh - AI Workflow Automation Platform]
-**Oct 2025 – Present** | `Next.js 15` `TypeScript` `tRPC` `React Flow` `Prisma` `Inngest`
-
-> Production-grade no-code automation platform with visual workflow builder and AI integrations
-
-- **Visual Builder:** Drag-and-drop interface using React Flow for creating complex automation workflows
-- **AI Integrations:** Support for OpenAI, Claude, Gemini with custom prompt templates
-- **Trigger Nodes:** Webhook, Google Form, Stripe, Manual triggers for workflow initiation
-- **Scalable Architecture:** Type-safe tRPC API layer with Prisma ORM and Neon Postgres
-- **Platform Integrations:** Discord, Slack messaging, HTTP requests, Polar payment processing
-- **Monitoring:** Sentry integration for AI-powered error tracking and debugging
-
-**Tech Highlights:** App Router architecture • Better Auth authentication • Inngest background jobs
-
----
 
 
 ## 📊 GitHub Analytics
